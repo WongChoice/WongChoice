@@ -19,15 +19,15 @@ I love building elegant, efficient apps that solve real-world problems — wheth
 
 ## 🚀 Featured Projects
 
-### [Offline Currency Converter](https://github.com/ankitdas/OfflineCurrencyConverter)  
+### [Offline Currency Converter](https://github.com/wongchoice/OfflineCurrencyConverter)  
 _A fast and reliable Android app for converting currencies offline._  
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
 
-### [Smart Expense Tracker](https://github.com/ankitdas/SmartExpenseTracker)  
+### [Smart Expense Tracker](https://github.com/wongchoice/SmartExpenseTracker)  
 _A cross-platform app to track and analyze your spending habits with ML-powered insights._  
 <img src="https://media.giphy.com/media/26gJA4A1xR28BOw5W/giphy.gif" width="280"/>
 
-### [Personal Portfolio Website](https://ankitdas.github.io)  
+### [Personal Portfolio Website](https://wongchoice.github.io)  
 _Showcasing my projects, blogs, and tech journey — built with React & Tailwind CSS._  
 <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="280"/>
 
@@ -35,11 +35,11 @@ _Showcasing my projects, blogs, and tech journey — built with React & Tailwind
 
 ## 📈 GitHub Stats
 
-![Ankit Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitdas&show_icons=true&theme=radical&count_private=true)
+![Ankit Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=wongchoice&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdas&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wongchoice&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ankitdas&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=wongchoice&theme=radical)
 
 ---
 
@@ -56,9 +56,9 @@ _Showcasing my projects, blogs, and tech journey — built with React & Tailwind
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitdas/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ankitdas@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=github&logoColor=black)](https://ankitdas.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wongchoice/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:wongchoice@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=github&logoColor=black)](https://wongchoice.github.io)
 
 ---
 
@@ -68,4 +68,4 @@ _Showcasing my projects, blogs, and tech journey — built with React & Tailwind
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out or check out my projects. 🚀  
+Thanks for visiting my profile! Feel free to reach out or check out my projects. 🚀
