@@ -8,28 +8,53 @@
 
 I'm a passionate full-stack developer and machine learning enthusiast with expertise in:
 
-- **JavaScript** (ES6+, React, Node.js)  
-- **Kotlin** (Android development, Jetpack Compose)  
-- **Python** (automation, scripting, ML with TensorFlow & scikit-learn)  
-- **Machine Learning** (building models, data analysis, deep learning)
+- **JavaScript** (ES6+, React, Node.js)
+- **Kotlin** (Android development, Jetpack Compose)
+- **Python** (automation, ML with TensorFlow & scikit-learn)
+- **Machine Learning & Data Science**
 
-I love building elegant, efficient apps that solve real-world problems — whether it’s an offline currency converter or intelligent automation tools.
+I love building elegant, efficient apps that solve real-world problems — from offline currency converters to smart web scrapers and automation tools.
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Offline Currency Converter](https://github.com/wongchoice/OfflineCurrencyConverter)  
-_A fast and reliable Android app for converting currencies offline._  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
+### 🪙 [Offline Currency Converter](https://github.com/wongchoice/OfflineCurrencyConverter)
+A fast and reliable Android app for converting currencies offline.  
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
 
-### [Smart Expense Tracker](https://github.com/wongchoice/SmartExpenseTracker)  
-_A cross-platform app to track and analyze your spending habits with ML-powered insights._  
-<img src="https://media.giphy.com/media/26gJA4A1xR28BOw5W/giphy.gif" width="280"/>
+### 💬 [AppMssgs](https://github.com/wongchoice/AppMssgs)
+An Android app to manage and organize messages seamlessly.
 
-### [Personal Portfolio Website](https://wongchoice.github.io)  
-_Showcasing my projects, blogs, and tech journey — built with React & Tailwind CSS._  
-<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="280"/>
+### 📄 [Constructor-Scraping](https://github.com/wongchoice/Constructor-Scraping)
+Python scripts for powerful web scraping, built to collect data with flexible configurations.
+
+### 🌍 [LocTract](https://github.com/wongchoice/LocTract)
+Track locations in real-time using Kotlin — great for logistics or team tracking apps.
+
+### 📊 [ExcelDataToGraphs](https://github.com/wongchoice/ExcelDataToGraphs)
+Turn your Excel data into beautiful, automated graphs with JavaScript.
+
+### 🛒 [Auto_order](https://github.com/wongchoice/Auto_order)
+A basic but clever grocery auto-ordering script, made for convenience and personal use.
+
+### 🎥 [Reeler](https://github.com/wongchoice/Reeler)
+A JavaScript-based tool for reel video content creation and management.
+
+### 🗺️ [Itenary](https://github.com/wongchoice/Itenary)
+A travel itinerary planner built with JavaScript — your smart travel companion.
+
+### 🔬 [Flaskapp-to-detect-face](https://github.com/wongchoice/Flaskapp-to-detect-face)
+A Python Flask application for face detection using OpenCV — lightweight and fast.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Pair Extraordinaire** — Collaborating effectively on code reviews
+- 🦈 **Pull Shark** — Merging lots of pull requests
+- ⚡ **Quickdraw** — Rapidly opening issues or PRs
+- 💡 Active contributor to organizations like [@code-charity](https://github.com/code-charity) & [@Homer202](https://github.com/Homer202)
 
 ---
 
@@ -51,6 +76,8 @@ _Showcasing my projects, blogs, and tech journey — built with React & Tailwind
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 ---
 
@@ -68,4 +95,4 @@ _Showcasing my projects, blogs, and tech journey — built with React & Tailwind
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out or check out my projects. 🚀
+Thanks for visiting my profile! 💥 Feel free to check out my projects, leave a ⭐, or connect with me — let's build something amazing together! 🚀
