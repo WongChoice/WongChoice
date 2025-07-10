@@ -6,14 +6,15 @@
 
 ## 💻 About Me
 
-I'm a passionate full-stack developer and machine learning enthusiast with expertise in:
+I'm a passionate **full-stack developer**, **Android developer**, and **machine learning enthusiast** with expertise in:
 
 - **JavaScript** (ES6+, React, Node.js)
 - **Kotlin** (Android development, Jetpack Compose)
-- **Python** (automation, ML with TensorFlow & scikit-learn)
+- **Python** (automation, machine learning with TensorFlow & scikit-learn)
 - **Machine Learning & Data Science**
 
-I love building elegant, efficient apps that solve real-world problems — from offline currency converters to smart web scrapers and automation tools.
+I enjoy creating elegant, high-performance applications that solve real-world problems — from offline currency converters to intelligent web scrapers and advanced automation tools. I love turning complex ideas into beautiful, functional code that makes a difference.
+
 
 ---
 
