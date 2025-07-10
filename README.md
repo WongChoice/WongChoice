@@ -13,7 +13,7 @@ I'm a passionate **full-stack developer**, **Android developer**, and **machine 
 - **Python** (automation, machine learning with TensorFlow & scikit-learn)
 - **Machine Learning & Data Science**
 
-I enjoy creating elegant, high-performance applications that solve real-world problems — from offline currency converters to intelligent web scrapers and advanced automation tools. I love turning complex ideas into beautiful, functional code that makes a difference.
+I enjoy building robust, elegant, and efficient applications that solve real-world problems and deliver meaningful impact.
 
 
 ---
