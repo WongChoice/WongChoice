@@ -49,15 +49,15 @@ Developing interactive web interfaces utilizing React Three Fiber, custom GLSL s
 
 ## 📈 GitHub Stats
 
-![Ankit Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=wongchoice&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wongchoice&layout=compact&theme=radical)  
+![Ankit Das's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=wongchoice&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wongchoice&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wongchoice&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wongchoice/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitdasml/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ankitdascr@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=github&logoColor=black)](https://wongchoice.github.io/portfolio)
 
