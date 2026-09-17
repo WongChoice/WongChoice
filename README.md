@@ -6,56 +6,55 @@
 
 ## 💻 About Me
 
-I'm a passionate **full-stack developer**, **Android developer**, and **machine learning enthusiast** with expertise in:
+I'm a **Senior AI & Automation Engineer** and **Software Architect** with extensive experience building scalable backends, high-performance web applications, and autonomous agent systems. My core engineering domain spans:
 
-- **JavaScript** (ES6+, React, Node.js)
-- **Kotlin** (Android development, Jetpack Compose)
-- **Python** (automation, machine learning with TensorFlow & scikit-learn)
-- **Machine Learning & Data Science**
+- **AI Agents & Multi-Agent Architecture**: LangGraph, managed state persistence, human-in-the-loop controls, autonomous tool-governance, LLM orchestration
+- **Workflow Automation & Systems**: n8n (custom node creation & API-driven workflow generation), Make.com, web scrapers, data pipelines
+- **Backend & Web Engineering**: Python, Node.js/TypeScript, Fastify, Flask, REST/GraphQL, SQL/NoSQL databases
+- **Mobile & Client Application Development**: Kotlin (Android, Jetpack Compose), JavaScript/TypeScript
+- **Interactive & Spatial Web**: React Three Fiber (R3F), GLSL shaders, 3D web experiences, dynamic UI components
 
-I enjoy building robust, elegant, and efficient applications that solve real-world problems and deliver meaningful impact.
-
-
----
-
-## 🚀 Featured Projects
-
-### 🪙 [Offline Currency Converter](https://github.com/wongchoice/OfflineCurrencyConverter)
-A fast and reliable Android app for converting currencies offline.  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
-
-### 💬 [AppMssgs](https://github.com/wongchoice/AppMssgs)
-An Android app to manage and organize messages seamlessly.
-
-### 📄 [Constructor-Scraping](https://github.com/wongchoice/Constructor-Scraping)
-Python scripts for powerful web scraping, built to collect data with flexible configurations.
-
-### 🌍 [LocTract](https://github.com/wongchoice/LocTract)
-Track locations in real-time using Kotlin — great for logistics or team tracking apps.
-
-### 📊 [ExcelDataToGraphs](https://github.com/wongchoice/ExcelDataToGraphs)
-Turn your Excel data into beautiful, automated graphs with JavaScript.
-
-### 🛒 [Auto_order](https://github.com/wongchoice/Auto_order)
-A basic but clever grocery auto-ordering script, made for convenience and personal use.
-
-### 🎥 [Reeler](https://github.com/wongchoice/Reeler)
-A JavaScript-based tool for reel video content creation and management.
-
-### 🗺️ [Itenary](https://github.com/wongchoice/Itenary)
-A travel itinerary planner built with JavaScript — your smart travel companion.
-
-### 🔬 [Flaskapp-to-detect-face](https://github.com/wongchoice/Flaskapp-to-detect-face)
-A Python Flask application for face detection using OpenCV — lightweight and fast.
+I build resilient systems that combine autonomous reasoning, automation pipelines, and modern web interfaces to solve complex end-to-end technical challenges.
 
 ---
 
-## 🏆 Achievements
+## 🚀 Key Focus Areas & Architecture
 
-- 🥇 **Pair Extraordinaire** — Collaborating effectively on code reviews
-- 🦈 **Pull Shark** — Merging lots of pull requests
-- ⚡ **Quickdraw** — Rapidly opening issues or PRs
-- 💡 Active contributor to organizations like [@code-charity](https://github.com/code-charity) & [@Homer202](https://github.com/Homer202)
+### 🤖 Multi-Agent Systems & LangGraph
+Design and deployment of graph-based, multi-agent frameworks featuring persistent state machines, isolated tool-calling environments, and dynamic agent coordination.
+
+### ⚙️ Workflow Automation & Meta-Workflows
+Architecting complex automation systems via n8n and Python scripts, enabling programmatic generation of workflows, SSL intelligence monitoring, and high-throughput data extraction engines.
+
+### 🎨 Spatial Web & Shader Engineering
+Developing interactive web interfaces utilizing React Three Fiber, custom GLSL shaders, and WebGL graphics to deliver high-performance spatial UI.
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+**Languages** `<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>`
+`<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/OpenGL%2FGLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>`
+
+**AI, Machine Learning & Agentic Frameworks** `<img src="https://img.shields.io/badge/LangChain%2FLangGraph-121011?style=for-the-badge&logo=chainlink&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=TensorFlow&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>`
+
+**Web Frameworks & Libraries** `<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>`
+`<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>`
+
+**Automation & Infrastructure** `<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/Make.com-611f69?style=for-the-badge&logo=make&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>`
 
 ---
 
@@ -69,20 +68,7 @@ A Python Flask application for face detection using OpenCV — lightweight and f
 
 ---
 
-## 🛠️ Languages & Tools
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
----
-
-## 🌐 Connect with me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wongchoice/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:wongchoice@example.com)  
@@ -90,10 +76,6 @@ A Python Flask application for face detection using OpenCV — lightweight and f
 
 ---
 
-### 🎯 Fun Fact
+### 🎯 Quote
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
-
----
-
-Thanks for visiting my profile! 💥 Feel free to check out my projects, leave a ⭐, or connect with me — let's build something amazing together! 🚀
